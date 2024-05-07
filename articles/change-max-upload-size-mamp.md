@@ -3,7 +3,7 @@ title: "MAMPによるWordPress開発環境の最大アップロード容量を�
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["MAMP", "WordPress", "PHP"]
-published: false
+published: true
 ---
 
 ## MAMPのデフォルト最大アップロード容量による制限
